@@ -1,0 +1,35 @@
+section {
+
+    button {
+        border-radius: 8px;
+        border: 2px solid transparent;
+        padding: 0.6em 1.2em;
+        font-size: 1rem;
+        font-family: inherit;
+        background-color: #a8e695;
+        margin: 20px;
+        cursor: pointer;
+        transition: border-color 0.25s;
+    }
+
+    button:hover {
+        border-color: #646cff;
+    }
+}
+
+.blueButton{
+    background-color: blue;
+}
+
+.redButton{
+    background-color: red;
+
+}
+
+.greenButton{
+    background-color: green;
+}
+
+.pinkButton{
+    background-color: pink;
+}
